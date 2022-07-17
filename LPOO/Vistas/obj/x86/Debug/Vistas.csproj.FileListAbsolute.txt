@@ -1,0 +1,10 @@
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\bin\Debug\Vistas.exe
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\bin\Debug\Vistas.pdb
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\obj\x86\Debug\Vistas.FormLogin.resources
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\maxi\Documents\LPOO\LPOO\Vistas\obj\x86\Debug\Vistas.pdb
